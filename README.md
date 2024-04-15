@@ -3,6 +3,7 @@ Blood Bank
 Team Members :
 Hari Krishnan Raj Kumar, Lakshmi KS, Nidhi Kumar, Shristi Shrivastava
 
+(please check the word doc or the ppt file for images)
 Version 1.0
 
 Summary of Project:
